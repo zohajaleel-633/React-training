@@ -1,0 +1,53 @@
+.bun {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 7rem;
+}
+
+.lettuce {
+  width: 16vw;
+  height: 25px;
+  background-color: #44a02d;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.bacon {
+  width: 14vw;
+  height: 10px;
+  background-color: #c24e2a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.cheese {
+  width: 18vw;
+  height: 15px;
+  background-color: #e2c319;
+  display: flex;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.meat {
+  width: 14vw;
+  height: 30px;
+  background-color: #7a3306;
+  display: flex;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.main{
+  height: 10rem;
+}

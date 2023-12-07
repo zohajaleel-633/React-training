@@ -1,0 +1,22 @@
+.more{
+  background-color: #cf8f2e;
+  display: flex;
+  justify-content: center;
+}
+
+.menu{
+  height: 100%;
+  gap: 10px;
+}
+
+.test{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 15rem;
+}
+
+.text{
+  width: 5rem;
+}
